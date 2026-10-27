@@ -1,27 +1,50 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif"  />
+</div>
 
 ###
 
-<p data-importer="text" align="left"></p>
+<div data-importer="socials" align="center">
+</div>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jose0000.jose0000&"  />
+</div>
 
 ###
 
-<p data-importer="text" align="left">📚 learning cybersecurity</p>
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">- 📚 I'm currently learning ...</p>
 
 ###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left"></h3>
 
 ###
