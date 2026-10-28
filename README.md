@@ -1,44 +1,46 @@
-<div data-importer="socials" align="center">
-</div>
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jose0000.jose0000&"  />
-</div>
+<p data-importer="text" align="left">My name is Jose and I'm a Programming Enthusiast, from Brazil</p>
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">- 📚 I'm currently learning ...</p>
+<h3 data-importer="text" align="left">📚 I'm currently learning</h3>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">I code with</h2>
 
 ###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left"></h3>
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose0000/jose0000/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose0000/jose0000/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jose0000/jose0000/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
