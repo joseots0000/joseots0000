@@ -1,9 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif"  />
-</div>
-
-###
-
 <div data-importer="socials" align="center">
 </div>
 
